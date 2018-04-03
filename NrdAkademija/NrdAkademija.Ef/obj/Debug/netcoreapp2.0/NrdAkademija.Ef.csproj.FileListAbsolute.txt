@@ -1,0 +1,9 @@
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\bin\Debug\netcoreapp2.0\NrdAkademija.Ef.deps.json
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\bin\Debug\netcoreapp2.0\NrdAkademija.Ef.dll
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\bin\Debug\netcoreapp2.0\NrdAkademija.Ef.pdb
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\obj\Debug\netcoreapp2.0\NrdAkademija.Ef.csproj.CoreCompileInputs.cache
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\obj\Debug\netcoreapp2.0\NrdAkademija.Ef.AssemblyInfoInputs.cache
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\obj\Debug\netcoreapp2.0\NrdAkademija.Ef.AssemblyInfo.cs
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\obj\Debug\netcoreapp2.0\NrdAkademija.Ef.dll
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\obj\Debug\netcoreapp2.0\NrdAkademija.Ef.pdb
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Ef\obj\Debug\netcoreapp2.0\NrdAkademija.Ef.csprojResolveAssemblyReference.cache

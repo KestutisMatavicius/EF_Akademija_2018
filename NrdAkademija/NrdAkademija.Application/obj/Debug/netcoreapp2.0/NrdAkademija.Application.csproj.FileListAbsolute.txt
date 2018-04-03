@@ -1,0 +1,8 @@
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Application\bin\Debug\netcoreapp2.0\NrdAkademija.Application.deps.json
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Application\bin\Debug\netcoreapp2.0\NrdAkademija.Application.dll
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Application\bin\Debug\netcoreapp2.0\NrdAkademija.Application.pdb
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Application\obj\Debug\netcoreapp2.0\NrdAkademija.Application.csproj.CoreCompileInputs.cache
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Application\obj\Debug\netcoreapp2.0\NrdAkademija.Application.AssemblyInfoInputs.cache
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Application\obj\Debug\netcoreapp2.0\NrdAkademija.Application.AssemblyInfo.cs
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Application\obj\Debug\netcoreapp2.0\NrdAkademija.Application.dll
+c:\users\kma\source\repos\NrdAkademija\NrdAkademija.Application\obj\Debug\netcoreapp2.0\NrdAkademija.Application.pdb
